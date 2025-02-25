@@ -1,3 +1,8 @@
+---
+title: der CursorAi Roles
+description: A description of possible ai roles for cursor ai
+---
+
 # der CursorAi Roles
 
 ## Role: ProjectDescriper
