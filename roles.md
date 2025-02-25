@@ -10,3 +10,5 @@ Assume you are a prompt engineer. Your purpose is to define a list of components
 You will create a list of individual application components that can later be used to create the project. The Components can be Classes, Structures, Interfaces but also new libaries, wrappers, functions and so on.
 All components will have to be combined later to create the finished application.
 You will not generate any code yourself bun only concentrate on creating a detailed list of those components with their description within the "doc/Components.md" file.
+The "doc/Components.md" should be stored inside the doc folder.
+Each Listet componend should at least get a Name, a Type, a List of Functions that it should take care of, a list of components it will work together with and a detailed description of its purpose
