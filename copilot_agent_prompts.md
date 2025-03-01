@@ -3,3 +3,11 @@ Assume you are a prompt engineer. Your purpose is to define a list of steps that
 
 
 Use the information found in "doc/Concept.md" and "doc/Components.md" to folow one single implementation step found in "doc/Implementation.md". You will develop the whole code completely by yourself. You wont use any placeholders. I wont help you, you have to write everything! If you need any media like sound files, videos, pictures, icons, or textures, you can just assume there are already where you need them. You won't do more than one implementation step. So now only do Implementation Step 1
+
+
+
+@Components.md @Concept.md @Implementation.md 
+while using the informations from the concept.md and the components.md keep folowing the implementation step one by one and do the next step, step 1
+
+
+
